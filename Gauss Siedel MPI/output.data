@@ -1,0 +1,70 @@
+export TMOUT=5400
+export TMPDIR=/mnt/job-temp/aditya98/4460625
+export PTMPDIR=/work/classtmp/aditya98/4460625
+Matrix size = 8
+Node 0: Gauss Seidel converged after 1 iterations
+Node 1: Gauss Seidel converged after 1 iterations
+Node 2: Gauss Seidel converged after 1 iterations
+Node 3: Gauss Seidel converged after 1 iterations
+Total execution time = 0.000002 seconds
+Total time: 0.000002
+export TMOUT=5400
+export TMPDIR=/mnt/job-temp/aditya98/4460625
+export PTMPDIR=/work/classtmp/aditya98/4460625
+Matrix size = 16
+Node 0: Gauss Seidel converged after 51 iterations
+Node 1: Gauss Seidel converged after 54 iterations
+Node 2: Gauss Seidel converged after 59 iterations
+Node 3: Gauss Seidel converged after 67 iterations
+Total execution time = 0.000008 seconds
+Total time: 0.000008
+export TMOUT=5400
+export TMPDIR=/mnt/job-temp/aditya98/4460625
+export PTMPDIR=/work/classtmp/aditya98/4460625
+Matrix size = 32
+Node 0: Gauss Seidel converged after 68 iterations
+Node 1: Gauss Seidel converged after 68 iterations
+Node 2: Gauss Seidel converged after 68 iterations
+Node 3: Gauss Seidel converged after 68 iterations
+Total execution time = 0.000059 seconds
+Total time: 0.000059
+export TMOUT=5400
+export TMPDIR=/mnt/job-temp/aditya98/4460625
+export PTMPDIR=/work/classtmp/aditya98/4460625
+Matrix size = 64
+Node 1: Gauss Seidel converged after 56 iterations
+Node 2: Gauss Seidel converged after 56 iterations
+Node 0: Gauss Seidel converged after 56 iterations
+Node 3: Gauss Seidel converged after 56 iterations
+Total execution time = 0.000238 seconds
+Total time: 0.000238
+export TMOUT=5400
+export TMPDIR=/mnt/job-temp/aditya98/4460625
+export PTMPDIR=/work/classtmp/aditya98/4460625
+Matrix size = 128
+Node 1: Gauss Seidel converged after 53 iterations
+Node 2: Gauss Seidel converged after 53 iterations
+Node 0: Gauss Seidel converged after 53 iterations
+Total execution time = 0.000995 seconds
+Total time: 0.000995
+Node 3: Gauss Seidel converged after 53 iterations
+export TMOUT=5400
+export TMPDIR=/mnt/job-temp/aditya98/4460625
+export PTMPDIR=/work/classtmp/aditya98/4460625
+Matrix size = 256
+Node 1: Gauss Seidel converged after 52 iterations
+Node 0: Gauss Seidel converged after 52 iterations
+Node 2: Gauss Seidel converged after 52 iterations
+Node 3: Gauss Seidel converged after 52 iterations
+Total execution time = 0.004124 seconds
+Total time: 0.004124
+export TMOUT=5400
+export TMPDIR=/mnt/job-temp/aditya98/4460625
+export PTMPDIR=/work/classtmp/aditya98/4460625
+Matrix size = 512
+Node 1: Gauss Seidel converged after 52 iterations
+Node 2: Gauss Seidel converged after 52 iterations
+Node 3: Gauss Seidel converged after 52 iterations
+Node 0: Gauss Seidel converged after 52 iterations
+Total execution time = 0.016827 seconds
+Total time: 0.016827

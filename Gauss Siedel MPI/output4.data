@@ -1,0 +1,8 @@
+export TMOUT=5400
+export TMPDIR=/mnt/job-temp/aditya98/4460625
+export PTMPDIR=/work/classtmp/aditya98/4460625
+Matrix size = 64
+Node 0: Gauss Seidel converged after 53 iterations
+Total execution time = 0.000483 seconds
+Total time: 0.000483
+Node 1: Gauss Seidel converged after 53 iterations

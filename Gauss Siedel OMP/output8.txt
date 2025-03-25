@@ -1,0 +1,215 @@
+thread_count = 12
+N = 512
+
+**************Serial Solver*************Difference after   1 iterations: 341.111111
+Difference after   2 iterations: 255.541667
+Difference after   3 iterations: 207.443229
+Difference after   4 iterations: 177.392346
+Difference after   5 iterations: 156.923752
+Difference after   6 iterations: 142.019590
+Difference after   7 iterations: 130.605807
+Difference after   8 iterations: 121.525138
+Difference after   9 iterations: 114.086055
+Difference after  10 iterations: 107.850493
+Difference after  11 iterations: 102.527071
+Difference after  12 iterations: 97.913949
+Difference after  13 iterations: 93.866498
+Difference after  14 iterations: 90.278097
+Difference after  15 iterations: 87.068225
+Difference after  16 iterations: 84.174804
+Difference after  17 iterations: 81.549107
+Difference after  18 iterations: 79.152293
+Difference after  19 iterations: 76.952964
+Difference after  20 iterations: 74.925436
+Difference after  21 iterations: 73.048466
+Difference after  22 iterations: 71.304310
+Difference after  23 iterations: 69.678021
+Difference after  24 iterations: 68.156903
+Difference after  25 iterations: 66.730093
+Difference after  26 iterations: 65.388239
+Difference after  27 iterations: 64.123234
+Difference after  28 iterations: 62.928015
+Difference after  29 iterations: 61.796396
+Difference after  30 iterations: 60.722931
+Difference after  31 iterations: 59.702807
+Difference after  32 iterations: 58.731747
+Difference after  33 iterations: 57.805943
+Difference after  34 iterations: 56.921986
+Difference after  35 iterations: 56.076816
+Difference after  36 iterations: 55.267678
+Difference after  37 iterations: 54.492083
+Difference after  38 iterations: 53.747777
+Difference after  39 iterations: 53.032710
+Difference after  40 iterations: 52.345018
+Difference after  41 iterations: 51.682998
+Difference after  42 iterations: 51.045091
+Difference after  43 iterations: 50.429869
+Difference after  44 iterations: 49.836018
+Difference after  45 iterations: 49.262330
+Difference after  46 iterations: 48.707689
+Difference after  47 iterations: 48.171063
+Difference after  48 iterations: 47.651498
+Difference after  49 iterations: 47.148110
+Difference after  50 iterations: 46.660075
+Difference after  51 iterations: 46.186630
+Difference after  52 iterations: 45.727061
+Difference after  53 iterations: 45.280703
+Difference after  54 iterations: 44.846936
+Difference after  55 iterations: 44.425178
+Difference after  56 iterations: 44.014886
+Difference after  57 iterations: 43.615549
+Difference after  58 iterations: 43.226689
+Difference after  59 iterations: 42.847855
+Difference after  60 iterations: 42.478623
+Difference after  61 iterations: 42.118595
+Difference after  62 iterations: 41.767395
+Difference after  63 iterations: 41.424668
+Difference after  64 iterations: 41.090078
+Difference after  65 iterations: 40.763308
+Difference after  66 iterations: 40.444059
+Difference after  67 iterations: 40.132046
+Difference after  68 iterations: 39.827001
+Difference after  69 iterations: 39.528667
+Difference after  70 iterations: 39.236802
+Difference after  71 iterations: 38.951176
+Difference after  72 iterations: 38.671570
+Difference after  73 iterations: 38.397774
+Difference after  74 iterations: 38.129591
+Difference after  75 iterations: 37.866832
+Difference after  76 iterations: 37.609315
+Difference after  77 iterations: 37.356869
+Difference after  78 iterations: 37.109330
+Difference after  79 iterations: 36.866541
+Difference after  80 iterations: 36.628352
+Difference after  81 iterations: 36.394619
+Difference after  82 iterations: 36.165205
+Difference after  83 iterations: 35.939978
+Difference after  84 iterations: 35.718814
+Difference after  85 iterations: 35.501591
+Difference after  86 iterations: 35.288193
+Difference after  87 iterations: 35.078510
+Difference after  88 iterations: 34.872435
+Difference after  89 iterations: 34.669866
+Difference after  90 iterations: 34.470704
+Difference after  91 iterations: 34.274855
+Difference after  92 iterations: 34.082229
+Difference after  93 iterations: 33.892737
+Difference after  94 iterations: 33.706296
+Difference after  95 iterations: 33.522824
+Difference after  96 iterations: 33.342244
+Difference after  97 iterations: 33.164481
+Difference after  98 iterations: 32.989461
+Difference after  99 iterations: 32.817116
+Difference after 100 iterations: 32.647378
+
+
+Maximum Iterations Reached...exit out Exiting
+
+
+total Execution time Serial or Sequential execution: 0.216651
+
+
+*************Red Black Solver*************difference reduced to each after 1 iterations: 266.160000
+difference reduced to each after 2 iterations: 237.222400
+difference reduced to each after 3 iterations: 196.878464
+difference reduced to each after 4 iterations: 170.054374
+difference reduced to each after 5 iterations: 151.509706
+difference reduced to each after 6 iterations: 137.853279
+difference reduced to each after 7 iterations: 127.289366
+difference reduced to each after 8 iterations: 118.812336
+difference reduced to each after 9 iterations: 111.817812
+difference reduced to each after 10 iterations: 105.919855
+difference reduced to each after 11 iterations: 100.859512
+difference reduced to each after 12 iterations: 96.455893
+difference reduced to each after 13 iterations: 92.578378
+difference reduced to each after 14 iterations: 89.130004
+difference reduced to each after 15 iterations: 86.037091
+difference reduced to each after 16 iterations: 83.242522
+difference reduced to each after 17 iterations: 80.701245
+difference reduced to each after 18 iterations: 78.377189
+difference reduced to each after 19 iterations: 76.241083
+difference reduced to each after 20 iterations: 74.268895
+difference reduced to each after 21 iterations: 72.440684
+difference reduced to each after 22 iterations: 70.739748
+difference reduced to each after 23 iterations: 69.151977
+difference reduced to each after 24 iterations: 67.665355
+difference reduced to each after 25 iterations: 66.269583
+difference reduced to each after 26 iterations: 64.955770
+difference reduced to each after 27 iterations: 63.716197
+difference reduced to each after 28 iterations: 62.544127
+difference reduced to each after 29 iterations: 61.433649
+difference reduced to each after 30 iterations: 60.379551
+difference reduced to each after 31 iterations: 59.377219
+difference reduced to each after 32 iterations: 58.422550
+difference reduced to each after 33 iterations: 57.511883
+difference reduced to each after 34 iterations: 56.641939
+difference reduced to each after 35 iterations: 55.809770
+difference reduced to each after 36 iterations: 55.012721
+difference reduced to each after 37 iterations: 54.248387
+difference reduced to each after 38 iterations: 53.514592
+difference reduced to each after 39 iterations: 52.809353
+difference reduced to each after 40 iterations: 52.130867
+difference reduced to each after 41 iterations: 51.477482
+difference reduced to each after 42 iterations: 50.847690
+difference reduced to each after 43 iterations: 50.240102
+difference reduced to each after 44 iterations: 49.653446
+difference reduced to each after 45 iterations: 49.086545
+difference reduced to each after 46 iterations: 48.538315
+difference reduced to each after 47 iterations: 48.007754
+difference reduced to each after 48 iterations: 47.493932
+difference reduced to each after 49 iterations: 46.995988
+difference reduced to each after 50 iterations: 46.513120
+difference reduced to each after 51 iterations: 46.044582
+difference reduced to each after 52 iterations: 45.589680
+difference reduced to each after 53 iterations: 45.147764
+difference reduced to each after 54 iterations: 44.718228
+difference reduced to each after 55 iterations: 44.300506
+difference reduced to each after 56 iterations: 43.894064
+difference reduced to each after 57 iterations: 43.498405
+difference reduced to each after 58 iterations: 43.113060
+difference reduced to each after 59 iterations: 42.737588
+difference reduced to each after 60 iterations: 42.371575
+difference reduced to each after 61 iterations: 42.014630
+difference reduced to each after 62 iterations: 41.666385
+difference reduced to each after 63 iterations: 41.326493
+difference reduced to each after 64 iterations: 40.994624
+difference reduced to each after 65 iterations: 40.670468
+difference reduced to each after 66 iterations: 40.353730
+difference reduced to each after 67 iterations: 40.044132
+difference reduced to each after 68 iterations: 39.741410
+difference reduced to each after 69 iterations: 39.445313
+difference reduced to each after 70 iterations: 39.155603
+difference reduced to each after 71 iterations: 38.872052
+difference reduced to each after 72 iterations: 38.594447
+difference reduced to each after 73 iterations: 38.322582
+difference reduced to each after 74 iterations: 38.056263
+difference reduced to each after 75 iterations: 37.795302
+difference reduced to each after 76 iterations: 37.539523
+difference reduced to each after 77 iterations: 37.288756
+difference reduced to each after 78 iterations: 37.042841
+difference reduced to each after 79 iterations: 36.801622
+difference reduced to each after 80 iterations: 36.564952
+difference reduced to each after 81 iterations: 36.332689
+difference reduced to each after 82 iterations: 36.104699
+difference reduced to each after 83 iterations: 35.880852
+difference reduced to each after 84 iterations: 35.661025
+difference reduced to each after 85 iterations: 35.445097
+difference reduced to each after 86 iterations: 35.232956
+difference reduced to each after 87 iterations: 35.024492
+difference reduced to each after 88 iterations: 34.819600
+difference reduced to each after 89 iterations: 34.618179
+difference reduced to each after 90 iterations: 34.420132
+difference reduced to each after 91 iterations: 34.225366
+difference reduced to each after 92 iterations: 34.033792
+difference reduced to each after 93 iterations: 33.845323
+difference reduced to each after 94 iterations: 33.659876
+difference reduced to each after 95 iterations: 33.477371
+difference reduced to each after 96 iterations: 33.297731
+difference reduced to each after 97 iterations: 33.120883
+difference reduced to each after 98 iterations: 32.946754
+difference reduced to each after 99 iterations: 32.775276
+difference reduced to each after 100 iterations: 32.606382
+
+Maximum Iterations Reached......exit out ..exiting
+total execution time parallel execution:0.023780
+
